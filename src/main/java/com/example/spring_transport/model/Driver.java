@@ -1,5 +1,7 @@
 package com.example.spring_transport.model;
 
+import org.springframework.beans.factory.annotation.Qualifier;
+
 public class Driver {
     private String name;
     private Transport transport;
